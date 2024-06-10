@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='About-Me'></span>
 
+# 🏫 团队概况
+
 Hi! I am Yalun Wu (吴亚伦 in Chinese). I am a Ph.D. student in the [School of Computer and Information Techonoly](https://scit.bjtu.edu.cn/)  at [Beijing Jiaotong University](https://bjtu.edu.cn/), and affiliated with the Beijing Key Laboratory of Security and Privacy in Intelligent Transportation. I am advised by Prof. [Zhen Han](http://faculty.bjtu.edu.cn/5608/), [Wenjia Niu](http://faculty.bjtu.edu.cn/9120/) and Assistant Prof. [Endong Tong](http://faculty.bjtu.edu.cn/9306/). Prior to my Ph.D. career, I received the B.S. degree in communication engineering from [Qingdao Agricultural University](https://www.qau.edu.cn/) in 2017, and the M.S. degree in software engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/) in 2022.
 
 Currently, my research has centered on:
@@ -33,6 +35,7 @@ Currently, my research has centered on:
 
 📮: I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:wuyalun1@bjtu.edu.cn" target="_blank">email</a>.
 
+
 <span class='anchor' id='News'></span>
 # 🔥 新闻动态
 - *2024.05:* 祝贺！我与团队成员合作的一篇论文被国际学术会议 KSEM 2024（CCF-C）录用！🎉🎉🎉
@@ -43,9 +46,20 @@ Currently, my research has centered on:
 - *2022.01:* 祝贺！我与团队成员参加国家重大活动安全测试，为相应信息系统加固及安全运行作出了贡献，荣获团体一等奖！ 🎉🎉🎉 [[新闻链接](https://scit.bjtu.edu.cn/cms/item/4906.html)]
 - 2021.08: 祝贺！我们“六出祁山”战队在第29届DEFCON自动驾驶CTF全球挑战赛中荣获亚军！相关团队新闻链接：[[“六出祁山”战队@北京交通大学](http://scit.bjtu.edu.cn/mobile/item/4790.html)], [[Cacti@纽约州立大学布法罗分校](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html)], [[Redbud@清华大学](https://netsec.ccert.edu.cn/eng/hacking/2021-08-06-autodrive-defcon)]！🎉🎉🎉 
 
-<span class='anchor' id='Publications'></span>
 
-# 📝 代表性成果
+
+<span class='anchor' id='Research'></span>
+
+# 🔍 科研方向
+
+
+
+
+
+<span class='anchor' id='Publications'></span>
+# 📝 科研成果
+
+**期刊论文：**
 
 1. **Yalun Wu**, Yingxiao Xiang, Endong Tong, Yuqi Ye, Zhibo Cui, Yunzhe Tian, Lejun Zhang, Jiqiang Liu, Zhen Han. Wenjia Niu. Improving the Robustness of Pedestrian Detection in Autonomous Driving with Generative Data Augmentation. IEEE Network, 2024 (early access). <font color="#E56701"><b>(JCR Q1/中科院二区, IF: 9.3)</b></font> 
 2. **Yalun Wu**, Yanfeng Gu, Yuanwan Chen, Xiaoshu Cui, Qiong Li, Yingxiao Xiang, Endong Tong, Jianhua Li, Zhen Han, Jiqiang Liu. Camouflage Backdoor Attack against Pedestrian Detection. Applied Sciences, 2023, 13(23):12752. <font color="#E56701"><b>(JCR Q2/中科院四区)</b></font> 
@@ -65,14 +79,13 @@ Currently, my research has centered on:
 16. Yike Li, Yunzhe Tian, Endong Tong, Wenjia Niu, Yingxiao Xiang, Tong Chen, **Yalun Wu** and Jiqiang Liu. Curricular Robust Reinforcement Learning via GAN-based Perturbation through Continuously Scheduled Task. Chinese Conference on Trusted Computing and Information Security (CTCIS), 2021.
 17. Yingxiao Xiang, Tong Chen, Yike Li, Yunzhe Tian, Wenjia Niu, Endong Tong, Jiqiang Liu, Bowei Jia, **Yalun Wu**, Xinyu Huang. Predicting Congestion Attack of Variable Spoofing Frequency for Reliable Traffic Signal System. International Conference on Security and Privacy in New Computing Environments (EAI-SPNCE), 2021.
 
-<span class='anchor' id='Patents'></span>
-# 🔍 发明专利
+**发明专利：**
 
-- **吴亚伦**, 崔晓澍, 陈渊婉, 李琼, 古砚锋, 蔡英琪, 韩臻, 刘吉强, 童恩栋, 牛温佳. 一种基于文本驱动的数据增强方法. 中国专利, 2024. ZL202410218732.1.
-- 刘朋娜, 乔紫嫣, **吴亚伦**, 陈渊婉, 崔晓澍, 古砚锋, 贾敬淇, 李琼, 童恩栋, 牛温佳. 一种面向多点异步攻击的快速区域复用方法. 中国专利, 2024. CN202410026966.6
-- 乔紫嫣, 陈渊婉, 刘朋娜, 古砚锋, 崔晓澍, **吴亚伦**, 李琼, 童恩栋, 牛温佳. 一种双向模型迁移的多主体联合强化学习方法. 中国专利, 2024. CN202311627677.3
-- 程殿景, 田蕴哲, 卢西义, 陈康, 徐冬月, **吴亚伦**, 武兴宇, 李轶珂, 李琼, 童恩栋, 牛温佳, 刘吉强. 一种结合预训练和监督微调的多任务分类器构建方法. 中国专利, 2024. ZL2024102243853.
-- 陈康, 田蕴哲, 徐冬月, **吴亚伦**, 武兴宇, 李轶珂, 童恩栋, 牛温佳. 一种对无线信号进行信号调制样式与技术体制识别方法. 中国专利, 2024. CN202311198519.0
+1. 吴亚伦, 崔晓澍, 陈渊婉, 李琼, 古砚锋, 蔡英琪, 韩臻, 刘吉强, 童恩栋, 牛温佳. 一种基于文本驱动的数据增强方法. 中国专利, 2024. ZL202410218732.1.
+2. 刘朋娜, 乔紫嫣, 吴亚伦, 陈渊婉, 崔晓澍, 古砚锋, 贾敬淇, 李琼, 童恩栋, 牛温佳. 一种面向多点异步攻击的快速区域复用方法. 中国专利, 2024. CN202410026966.6
+3. 乔紫嫣, 陈渊婉, 刘朋娜, 古砚锋, 崔晓澍, 吴亚伦, 李琼, 童恩栋, 牛温佳. 一种双向模型迁移的多主体联合强化学习方法. 中国专利, 2024. CN202311627677.3
+4. 程殿景, 田蕴哲, 卢西义, 陈康, 徐冬月, 吴亚伦, 武兴宇, 李轶珂, 李琼, 童恩栋, 牛温佳, 刘吉强. 一种结合预训练和监督微调的多任务分类器构建方法. 中国专利, 2024. ZL2024102243853.
+5. 陈康, 田蕴哲, 徐冬月, 吴亚伦, 武兴宇, 李轶珂, 童恩栋, 牛温佳. 一种对无线信号进行信号调制样式与技术体制识别方法. 中国专利, 2024. CN202311198519.0
 
 <span class='anchor' id='Honor-and-Reward'></span>
 # 🎖 荣誉与获奖
@@ -95,23 +108,66 @@ Currently, my research has centered on:
 - *2022.12*: 获评北京交通大学“优秀兼职辅导员”荣誉称号.
 - *2022.11:* 荣获北京交通大学研究生骨干培训班“结业证书”.
 
-<span class='anchor' id='Education'></span>
-# 📖 教育经历
-- *2022.09 - 至今:* 博士, 北京交通大学, 计算机科学与技术学院/计算机与信息技术学院.
-- *2020.09 - 2022.06:* 硕士, 北京交通大学, 计算机与信息技术学院.
-- *2013.09 - 2017.06:* 本科, 青岛农业大学, 理学与信息科学学院.
 
-<span class='anchor' id='Project'></span>
-# ⚙️ 项目经历
 
-- *2023 - 至今:* 参与, 中央引导地方资金项目, 基于边缘计算的智能交通拥堵治理系统研发, 15万.
+<span class='anchor' id='Members'></span>
 
-- *2023 - 至今:* 参与, 自然科学横向项目(石家庄“揭榜挂帅”项目), 基于数字孪生的自动驾驶半实物仿真, 100万.
+# 🧑‍🏫 团队成员
 
-- *2022 - 2023:* 参与, 红果园横向项目, OMS功能及算法研发, 50万.
+- **指导教师：** 
+  - 韩臻 教授
+  - 刘吉强 教授
+  - 牛温佳 教授
+  - 童恩栋 副教授
+- **研究组组长：**
+  - 吴亚伦（2022级，ASRS研究组、原"六出祁山"战队队长）
+- **博士研究生：**
+  - 吴亚伦（2022级，IntelliGuard研究组负责人、原“六出祁山”CTF战队队长）
+  - 陈渊婉（2023级）
+  - 李琼（2023级）
+- **硕士研究生：**
+  - 蔡英琪（2022级）
+  - 古砚锋（2023级）
+  - 崔晓澍（2023级）
+  - 贾敬淇（2023级）
+- **本科生：**
+  - 衡勇睿（2022级，菁英计划）
 
-- *2020 - 2023:* 参与, 国家自然科学基金“面上”项目, 智能交通信号灯系统中数据投毒攻击的多主体协同防护研究, 60万.
+# 🎓 人才培养
 
-- *2020 - 2023:* 参与, 国家重点研发计划-项目, 城市智能系统可信任机理与关键技术.
+- **博士研究生：**
+  - 相迎宵（2023届）, 毕业去向：中国科学院信息工程研究所（原I-SIG研究组负责人）
+- **硕士研究生：**
+  - 乔紫嫣（2024届），毕业去向：中国移动
+  - 刘朋娜（2024届），毕业去向：人财保险（<font color="#E56701">“华为奖学金”获得者</font>）
+  - 王可（2023届），毕业去向：中国软件
+  - 唐菲（2023届），毕业去向：哪吒汽车
+  - 訾栋（2023届），毕业去向：北京交通大学
+  - 吴亚伦（2022届），毕业去向：北京交通大学读博
+  - 王潇瑾（2021届），毕业去向：法国国立工艺学院读研（<font color="#E56701">院“优秀硕士毕业论文”获得者</font>）
+  - 高旭（2020届），毕业去向：京东集团
+- **本科生：**
+  - **毕业设计指导学生：**
+    - 陈渊婉（2023届），毕业去向：北京交通大学读博
+    - 古砚锋（2023届），毕业去向：北京交通大学读研
+    - 苏慧敏（2023届），毕业去向：北京交通大学读研
+    - 彭泽颢（2023届），毕业去向：美国西北大学读研
+    - 黄可熠（2022届），毕业去向：比亚迪商用车研究院
+    - 司皓东（2022届），毕业去向：西安铁路局
+    - 姚瑞麒（2022届），毕业去向：上海铁路局
+    - 桂笛（2022届），毕业去向：云上贵州大数据中心
+    - 丰硕（2022届），毕业去向：武汉地铁集团
+  - **战队成员：**
+    - 李兆曦（2024届），毕业去向：北京大学读研
+    - 赵怡雯（2024届），毕业去向：美国南加利福尼亚大学读研
+    - 刘国涛（2023届），毕业去向：北京交通大学读研
+    - 李虹良（2023届），毕业去向：北京交通大学读研
+    - 龙程（2023届），毕业去向：北京交通大学读研
+  - **大创项目成员：**
+    - 赵怡雯、梁庆庆、孙迈（2023年大创项目获评“国家级”）
 
-- *2022 - 2022:* 参与, 红果园省部级“企事业”项目, 某领域标准化问题预研究项目.
+
+
+<span class='anchor' id='Contact'></span>
+
+# 📮 联系我们
