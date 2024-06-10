@@ -29,17 +29,7 @@ redirect_from:
 </div>
 
 
-
-<div id="About-Me" style="text-align:center;"><h1>自主系统可靠与安全研究组（ASRS-Lab）</h1></div>
-
-<div style="text-align:justify;">
-自主系统可靠与安全研究组（Autonomous Systems Reliability and Security, ASRS-Lab）隶属北京交通大学计算机科学与技术学院，依托“智能交通数据安全与隐私保护技术”北京市重点实验室、北京交通大学信息安全系人工智能安全，致力于在自主系统可靠性与安全性领域进行深入研究，重点关注新兴人工智能、智能系统、网络技术中的安全和隐私问题，特别是具有高社会影响的最新技术，如新兴的人工智能自动驾驶汽车、机器人、智能交通等。目前组内研究方向主要包括：智能交通信号系统的攻击与防御、自动驾驶与车联网安全、机器学习供应链安全等。</div>
-
-
-<div style="text-align:justify;">团队现有指导教师4人，在读博士生3人，在读硕士生4人，已毕业研究生10余人。近年来，ASRS团队的毕业生中涌现出一批杰出人才，他们中有的选择前往北京大学、南加利福尼亚大学（美国）、西北大学（美国）等国际知名学府继续他们的学术追求，也有的选择加入中国科学院、比亚迪、京东、中国移动等国内领先的科研机构和企业，开启他们的职业生涯。目前，本团队正处于快速发展阶段，欢迎广大本科生、研究生或工程师加入我们团队。【信息更新时间：2024.06.10】
-</div>
 <span class='anchor' id='News'></span>
-
 # 🔥 新闻动态
 - *2024.05:* 喜报！团队硕士生崔晓澍投递的一篇学术论文被国际学术会议 KSEM 2024（CCF-C）录用！🎉🎉🎉
 
@@ -60,6 +50,17 @@ redirect_from:
 - *2021.08:* 祝贺！团队“六出祁山”战队在第29届DEFCON自动驾驶CTF全球挑战赛中荣获亚军！相关团队新闻链接：[[“六出祁山”战队@北京交通大学](http://scit.bjtu.edu.cn/mobile/item/4790.html)], [[Cacti@纽约州立大学布法罗分校](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html)], [[Redbud@清华大学](https://netsec.ccert.edu.cn/eng/hacking/2021-08-06-autodrive-defcon)]！🎉🎉🎉 
 
 
+
+<span class='anchor' id='About-Me'></span>
+
+# 🏫 团队概况
+
+<div style="text-align:justify;">
+自主系统可靠与安全研究组（Autonomous Systems Reliability and Security, ASRS-Lab）隶属北京交通大学计算机科学与技术学院，依托“智能交通数据安全与隐私保护技术”北京市重点实验室、北京交通大学信息安全系人工智能安全，致力于在自主系统可靠性与安全性领域进行深入研究，重点关注新兴人工智能、智能系统、网络技术中的安全和隐私问题，特别是具有高社会影响的最新技术，如新兴的人工智能自动驾驶汽车、机器人、智能交通等。目前组内研究方向主要包括：智能交通信号系统的攻击与防御、自动驾驶与车联网安全、机器学习供应链安全等。</div>
+
+
+<div style="text-align:justify;">团队现有指导教师4人，在读博士生3人，在读硕士生4人，已毕业研究生10余人。近年来，ASRS团队的毕业生中涌现出一批杰出人才，他们中有的选择前往北京大学、南加利福尼亚大学（美国）、西北大学（美国）等国际知名学府继续他们的学术追求，也有的选择加入中国科学院、比亚迪、京东、中国移动等国内领先的科研机构和企业，开启他们的职业生涯。目前，本团队正处于快速发展阶段，欢迎广大本科生、研究生或工程师加入我们团队。【信息更新时间：2024.06.10】
+</div>
 
 <span class='anchor' id='Research'></span>
 
