@@ -1,16 +1,23 @@
 # main links links
 main:
+
+  - title: "团队概况"
+    url: "#About-Me"
+
   - title: "新闻动态"
     url: "#News"
 
-  - title: "研究团队"
-    url: "#Members"
+  - title: "科研方向"
+    url: "#Research"
 
   - title: "科研成果"
     url: "#Publications"
 
   - title: "荣誉与获奖"
     url: "#Honor-and-Reward"
+
+  - title: "团队成员"
+    url: "#Members"
 
   - title: "联系我们"
     url: "#Contact"
