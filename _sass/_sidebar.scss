@@ -92,7 +92,12 @@
   }
 
   img {
-    max-width: 175px;
+    /*
+     * author: allenpandas
+     * date: 2024.06.10
+     */
+    // max-width: 175px;
+    max-width: 100%;
     min-width: 75px;
     border-radius: 50%;
 
@@ -138,6 +143,12 @@
 
 .author__bio {
   margin: 0;
+  /*
+   * author: allenpandas
+   * date: 2024.06.10
+   */
+  font-size: 12px;
+  text-align: justify;
 
   @include breakpoint($large) {
     margin-top: 10px;
