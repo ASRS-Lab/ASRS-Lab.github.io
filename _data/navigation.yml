@@ -2,7 +2,7 @@
 main:
 
   - title: "团队概况"
-    url: "#About-Me"
+    url: "/news"
 
   - title: "新闻动态"
     url: "#News"
