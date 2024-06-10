@@ -1,5 +1,5 @@
 ---
-permalink: /news
+permalink: /news/
 title: "🏫 团队概况"
 author_profile: true
 ---
