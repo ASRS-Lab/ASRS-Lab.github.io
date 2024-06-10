@@ -19,24 +19,12 @@ redirect_from:
 
 # 🏫 团队概况
 
-Hi! I am Yalun Wu (吴亚伦 in Chinese). I am a Ph.D. student in the [School of Computer and Information Techonoly](https://scit.bjtu.edu.cn/)  at [Beijing Jiaotong University](https://bjtu.edu.cn/), and affiliated with the Beijing Key Laboratory of Security and Privacy in Intelligent Transportation. I am advised by Prof. [Zhen Han](http://faculty.bjtu.edu.cn/5608/), [Wenjia Niu](http://faculty.bjtu.edu.cn/9120/) and Assistant Prof. [Endong Tong](http://faculty.bjtu.edu.cn/9306/). Prior to my Ph.D. career, I received the B.S. degree in communication engineering from [Qingdao Agricultural University](https://www.qau.edu.cn/) in 2017, and the M.S. degree in software engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/) in 2022.
+自主系统可靠与安全研究团队（Autonomous Systems Reliability & Security, ASRS）隶属北京交通大学计算机科学与技术学院，依托“智能交通数据安全与隐私保护技术”北京市重点实验室、北京交通大学信息安全系人工智能安全，致力于在自主系统可靠性与安全性领域进行深入研究，重点关注新兴人工智能、智能系统、网络技术中的安全和隐私问题，特别是具有高社会影响的最新技术，如新兴的人工智能自动驾驶汽车、机器人、智能交通等。目前团队研究方向主要包括：智能交通信号系统的攻击与防御、自动驾驶与车联网安全、机器学习供应链安全等。
 
-Currently, my research has centered on:
-
-- **AI Security:** backdoor attacks and defenses, adversarial attacks and defenses.
-
-* **Safety Testing**:  testing and evaluation for autonomous driving algorithms, modules, and systems.
-
-* **Data Augmentation**: image or video generation, especially focus on generative data augmentation (GDA) in autonomous driving scenarios.
-
-* **Autonomous Driving Security**: attacks and defenses against the physical world, sensors, algorithms and automonous driving systems.
-
-* **Reinforcement Learning**: safety reinforcement learning (SRL), robustness reinforcement learning and offline reinforcement learning for autonomous driving systems.
-
-📮: I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:wuyalun1@bjtu.edu.cn" target="_blank">email</a>.
-
+团队现有指导教师4人，在读博士生3人，在读硕士生4人，已毕业研究生10余人。近年来，ASRS团队的毕业生中涌现出一批杰出人才，他们中有的选择前往北京大学、南加利福尼亚大学（美国）、西北大学（美国）等国际知名学府继续他们的学术追求，也有的选择加入中国科学院、比亚迪、京东、中国移动等国内领先的科研机构和企业，开启他们的职业生涯。目前，本团队正处于快速发展阶段，欢迎广大本科生、研究生或工程师加入我们团队。【信息更新时间：2024.06.10】
 
 <span class='anchor' id='News'></span>
+
 # 🔥 新闻动态
 - *2024.05:* 祝贺！我与团队成员合作的一篇论文被国际学术会议 KSEM 2024（CCF-C）录用！🎉🎉🎉
 - *2024.02:* 一篇论文被国际学术期刊IEEE Network（JCR Q1/中科院二区，影响因子9.3）录用.
