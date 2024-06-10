@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<img src='/images/ASRS-Members.jpg' width="800px">
+
 <span class='anchor' id='About-Me'></span>
 
 # 🏫 团队概况
