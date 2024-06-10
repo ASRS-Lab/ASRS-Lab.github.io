@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "ASRS-Lab"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Autonomous Systems Reliability and Security Group"
+  bio              : "Autonomous Systems Reliability and Security Research Group"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
