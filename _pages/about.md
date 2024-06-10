@@ -18,11 +18,11 @@ redirect_from:
 <!--<img src='/images/ASRS-Members.jpg' width="800px">-->
 
 <div style="background-image: url('images/background.png');height: 160px;width: 100%">
-  <div style="width:70%;background-color:#eeeeee;opacity:0.6;margin-top:16px;padding-left:15px;float:left;">
-  <p style="font-size:24px;font-weight:bold;margin-top:10px;">自主系统可靠安全研究组（ASRS）</p>
+  <div style="width:80%;background-color:#eeeeee;opacity:0.6;margin-top:16px;padding-left:15px;float:left;">
+  <p style="font-size:24px;font-weight:bold;margin-top:10px;">自主系统可靠与安全研究组（ASRS）</p>
   <p style="font-size:14px;font-weight:bold;">
-  	研究组隶属北京交通大学人工智能安全实验室，致力于自主系统的可靠性与安全性研究。<br />
-    研究组依托"智能交通数据安全与隐私保护技术"北京市重点实验室，关注自动驾驶汽车、机器人等系统安全问题。<br />
+  	研究组隶属北京交通大学人工智能安全实验室，致力于自主系统的可靠与安全性研究。<br />
+    团队依托"智能交通数据安全与隐私保护技术"北京市重点实验室，关注自动驾驶汽车、机器人等系统安全问题。<br />
     研究方向包括：智能交通系统安全、自动驾驶与车联网安全等。<br />
   </p>
   </div>
