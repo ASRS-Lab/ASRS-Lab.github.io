@@ -15,9 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<!--<img src='/images/ASRS-Members.jpg' width="800px">-->
 
-<div style="background-image: url('images/background.png');background-size: cover;height: 160px;width: 100%">
+
+<div id="top" style="background-image: url('images/background.png');background-size: cover;height: 160px;width: 100%">
   <div style="width:80%;background-color:#eeeeee;opacity:0.6;margin-top:16px;padding-left:15px;float:left;">
   <p style="font-size:24px;font-weight:bold;margin-top:10px;">自主系统可靠性与安全研究组（ASRS-Lab）</p>
   <p style="font-size:14px;font-weight:bold;">
@@ -32,12 +32,13 @@ redirect_from:
 
 
 
+
 <span class='anchor' id='News'></span>
 
 # 🔥 新闻动态
 - *2024.05:* 喜报！团队硕士生崔晓澍投递的一篇学术论文被国际学术会议 KSEM 2024（CCF-C）录用！🎉🎉🎉
 
-- *2024.02:* 喜报！团队博士生吴亚伦投递的一篇论文被国际学术期刊 IEEE Network 录用.
+- *2024.02:* 喜报！团队博士生吴亚伦投递的一篇论文被国际学术期刊 IEEE Network（中科院二区） 录用.
 
 - *2023.10:* 祝贺！团队硕士生刘朋娜荣获“华为奖学金”、硕士生蔡英琪荣获“钟茂均奖学金”、博士生吴亚伦荣获“企业专项奖学金”. 🎉🎉🎉
 
@@ -71,9 +72,8 @@ redirect_from:
 
 # 🔍 科研方向
 
-
-
-
+- 自动驾驶安全：针对物理世界、传感器、算法和自动驾驶系统的攻击和防御。
+- 机器学习供应链安全：针对机器学习模型的投毒攻击、后门攻击、对抗性攻击和防御。
 
 <span class='anchor' id='Publications'></span>
 # 📝 科研成果
