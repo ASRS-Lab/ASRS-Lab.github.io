@@ -1,28 +1,19 @@
 # main links links
 main:
-  - title: "关于我"
-    url: "#About-Me"
-
   - title: "新闻动态"
     url: "#News"
 
-  - title: "代表性成果"
-    url: "#Publications"
+  - title: "研究团队"
+    url: "#Members"
 
-  - title: "发明专利"
-    url: "#Patents"
+  - title: "学术成果"
+    url: "#Publications"
 
   - title: "荣誉与获奖"
     url: "#Honor-and-Reward"
 
-  - title: "教育经历"
-    url: "#Education"
-
-  - title: "项目经历"
-    url: "#Project"
-
-  - title: "英文简历 (English CV)"
-    url: "https://wuyalun.cn/"
+  - title: "联系我们"
+    url: "#Contact"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
