@@ -17,7 +17,7 @@ redirect_from:
 
 <!--<img src='/images/ASRS-Members.jpg' width="800px">-->
 
-<div style="background-image: url('images/background.png');">
+<div style="background-image: url('images/background.png');height: 200px;width: 100%">
   <div style="width:60%;background-color:#eeeeee;opacity:0.8;margin-top:16px;padding-left:10px;float:left;">
   <p style="font-size:24px;font-weight:bold;margin-top:5px;">自主系统可靠与安全研究组（ASRS）</p>
   <p style="font-size:14px;font-weight:bold;">
