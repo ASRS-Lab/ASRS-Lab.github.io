@@ -19,10 +19,10 @@ redirect_from:
 
 <div style="background-image: url('images/background.png');background-size: cover;height: 160px;width: 100%">
   <div style="width:80%;background-color:#eeeeee;opacity:0.6;margin-top:16px;padding-left:15px;float:left;">
-  <p style="font-size:24px;font-weight:bold;margin-top:10px;">自主系统可靠与安全研究组（ASRS）</p>
+  <p style="font-size:24px;font-weight:bold;margin-top:10px;">自主系统可靠与安全研究组（ASRS-Lab）</p>
   <p style="font-size:14px;font-weight:bold;">
   	研究组隶属北京交通大学人工智能安全实验室，致力于自主系统的可靠与安全性研究。<br />
-    团队依托"智能交通数据安全与隐私保护技术"北京市重点实验室，关注自动驾驶汽车、机器人等系统安全问题。<br />
+    团队依托"智能交通数据安全与隐私保护技术"北京市重点实验室，关注自动驾驶汽车、机器人等系统可靠性与安全性。<br />
     研究方向包括：智能交通系统安全、自动驾驶与车联网安全等。<br />
   </p>
   </div>
@@ -30,16 +30,14 @@ redirect_from:
 
 
 
-<span class='anchor' id='About-Me'></span>
-
-# 🏫 团队概况
+<div id="About-Me" style="text-align:center;"><h1>自主系统可靠与安全研究组（ASRS-Lab）</h1></div>
 
 <div style="text-align:justify;">
-自主系统可靠与安全研究团队（Autonomous Systems Reliability and Security, ASRS）隶属北京交通大学计算机科学与技术学院，依托“智能交通数据安全与隐私保护技术”北京市重点实验室、北京交通大学信息安全系人工智能安全，致力于在自主系统可靠性与安全性领域进行深入研究，重点关注新兴人工智能、智能系统、网络技术中的安全和隐私问题，特别是具有高社会影响的最新技术，如新兴的人工智能自动驾驶汽车、机器人、智能交通等。目前团队研究方向主要包括：智能交通信号系统的攻击与防御、自动驾驶与车联网安全、机器学习供应链安全等。</div>
+自主系统可靠与安全研究组（Autonomous Systems Reliability and Security, ASRS-Lab）隶属北京交通大学计算机科学与技术学院，依托“智能交通数据安全与隐私保护技术”北京市重点实验室、北京交通大学信息安全系人工智能安全，致力于在自主系统可靠性与安全性领域进行深入研究，重点关注新兴人工智能、智能系统、网络技术中的安全和隐私问题，特别是具有高社会影响的最新技术，如新兴的人工智能自动驾驶汽车、机器人、智能交通等。目前组内研究方向主要包括：智能交通信号系统的攻击与防御、自动驾驶与车联网安全、机器学习供应链安全等。</div>
+
 
 <div style="text-align:justify;">团队现有指导教师4人，在读博士生3人，在读硕士生4人，已毕业研究生10余人。近年来，ASRS团队的毕业生中涌现出一批杰出人才，他们中有的选择前往北京大学、南加利福尼亚大学（美国）、西北大学（美国）等国际知名学府继续他们的学术追求，也有的选择加入中国科学院、比亚迪、京东、中国移动等国内领先的科研机构和企业，开启他们的职业生涯。目前，本团队正处于快速发展阶段，欢迎广大本科生、研究生或工程师加入我们团队。【信息更新时间：2024.06.10】
 </div>
-
 <span class='anchor' id='News'></span>
 
 # 🔥 新闻动态
