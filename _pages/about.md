@@ -17,7 +17,9 @@ redirect_from:
 
 
 
-<div id="top" style="background-image: url('images/background.png');background-size: cover;height: 160px;width: 100%">
+<span class='anchor' id="top"></span>
+
+<div style="background-image: url('images/background.png');background-size: cover;height: 160px;width: 100%">
   <div style="width:80%;background-color:#eeeeee;opacity:0.6;margin-top:16px;padding-left:15px;float:left;">
   <p style="font-size:24px;font-weight:bold;margin-top:10px;">自主系统可靠性与安全研究组（ASRS-Lab）</p>
   <p style="font-size:14px;font-weight:bold;">
@@ -26,7 +28,7 @@ redirect_from:
     研究方向包括：智能交通系统安全、自动驾驶与车联网安全、供应链安全等。<br />
   </p>
   </div>
-  <br />
+  <div style="clear: both;"></div>
 </div>
 
 
