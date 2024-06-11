@@ -20,10 +20,10 @@ redirect_from:
 <span class='anchor' id="top"></span>
 
 <div style="background-image: url('images/background.png');background-size: cover;height: 160px;width: 100%">
-  <div style="width:80%;background-color:#eeeeee;opacity:0.6;margin-top:16px;padding-left:15px;float:left;">
+  <div style="width:70%;background-color:#eeeeee;opacity:0.6;margin-top:16px;padding-left:15px;float:left;">
   <p style="font-size:24px;font-weight:bold;margin-top:10px;">自主系统可靠性与安全研究组（ASRS-Lab）</p>
   <p style="font-size:14px;font-weight:bold;">
-  	研究组隶属北京交通大学人工智能安全实验室，致力于自主系统的可靠性与安全研究。<br />
+  	研究组隶属北京交通大学·人工智能安全实验室，致力于自主系统的可靠性与安全研究。<br />
     团队依托智能交通数据安全与隐私保护技术北京市重点实验室，关注自动驾驶汽车、智能机器人等前沿领域。<br />
     研究方向包括：智能交通系统安全、自动驾驶与车联网安全、供应链安全等。<br />
   </p>
@@ -78,6 +78,7 @@ redirect_from:
 
 - 自动驾驶安全：针对物理世界、传感器、算法和自动驾驶系统的攻击和防御。
 - 机器学习供应链安全：针对机器学习模型的投毒攻击、后门攻击、对抗性攻击和防御。
+- 自动化安全测试：针对自动驾驶算法、模块和系统的测试与评估。
 
 <span class='anchor' id='Publications'></span>
 # 📝 科研成果
