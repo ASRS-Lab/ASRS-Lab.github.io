@@ -24,10 +24,6 @@ redirect_from:
 
 
 
-
-
-
-
 <span class='anchor' id='News'></span>
 
 # 🔥 新闻动态
@@ -102,6 +98,10 @@ redirect_from:
 
 # 🧑‍🏫 团队成员
 
+<img src="images/ASRS-Members-v2.jpg" style="height:auto;">
+
+
+
 - **指导教师：** 
   - 韩臻 教授、刘吉强 教授、牛温佳 教授、童恩栋 副教授
 - **博士研究生：**
@@ -142,3 +142,15 @@ redirect_from:
 <span class='anchor' id='Contact'></span>
 
 # 📮 联系我们
+
+- 地址：北京市海淀区上园村3号北京交通大学机械工程楼D305/D308
+
+- 邮箱：<a href="mailto:wuyalun1@bjtu.edu.cn">wuyalun1@bjtu.edu.cn</a>
+
+- 交通方式：
+
+  交大西门：16路、26路、94路、603路，大柳树南站下；
+
+  交大南门：16路、26路、305路、603路、438路，北京交通大学站下；
+
+  交大东门：87路、651路、145路、603路、375路、438路，北京交通大学东门站下。
